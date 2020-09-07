@@ -1,0 +1,64 @@
+.pageHeader{
+    text-align: center;
+    margin-top: 5%;
+}
+
+.txtCenter{
+    text-align: center !important;	
+}
+
+.formBorder{
+	border: 2px solid #2196f3;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.mainLogo{
+	font-size: 25px; 
+	font-family: cursive; 
+	font-style: italic; 
+	color: black !important;
+}
+
+.mainColor{
+	color: #2196f3;
+}
+
+.serviceImg{
+	height: 200px;
+}.pageHeader{
+    text-align: center;
+    margin-top: 5%;
+}
+
+.txtCenter{
+    text-align: center !important;	
+}
+
+.formBorder{
+	border: 2px solid #2196f3;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.mainColor{
+	color: #2196f3;
+}
+
+.serviceImg{
+	height: 200px;
+}
+
+.destImg{
+	height: 250px !important;
+}
+
+.mainLogo{
+	height: 85px;
+}
+
+@media only screen and (min-width: 992px) {
+	.dLogo {
+	    margin-left: -85px;
+  	}
+} 
